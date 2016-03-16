@@ -8,10 +8,7 @@ var options = {
     speed: 300
 };
 var typing = new Typing(intro, options);
-typing.add(' 林晓炜.')
-    .pause(1000)
-    .delete(4)
-    .add('水货程序猿.')
+typing.add(' 水货程序猿.')
     .pause(1000)
     .delete(6)
     .add('全栈渣.')
@@ -27,5 +24,8 @@ typing.add(' 林晓炜.')
     .pause(1000)
     .delete(6)
     .add('非职业游戏吐槽.')
+    .pause(1000)
+    .delete(8)
+    .add('林晓炜.')
     .pause(1000);
 
